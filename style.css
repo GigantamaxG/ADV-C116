@@ -1,0 +1,22 @@
+  h3
+  {
+    font-size: 25px !important;
+  }
+  canvas {
+    border:2px dashed black;
+  }
+ #title {
+    font-size: larger;
+    color: red;
+    font-weight: bolder;
+    border-width: thick;
+    background-color: black;
+    align-self: center;
+  }
+  #Take_Snapshot {
+    font-size: larger;
+    color: #00ff00;
+    font-weight: bolder;
+    border-width: thick;
+    background-color: black;
+  }
